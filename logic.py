@@ -1,5 +1,6 @@
 import random
 import requests
+
 url = "https://git.charlesreid1.com/cs/five-letter-words/raw/branch/master/sgb-words.txt"
 response = requests.get(url)
 
