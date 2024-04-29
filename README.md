@@ -15,3 +15,4 @@ by Ricardo Menezes
 
         Although I am still processing the lessons from this project I have undoubtedly expanded my toolkit and knowledge. Each challenge encountered has provided valuable insights contributing to my growth as a developer. 
 
+You also will find the video here on the github. 
