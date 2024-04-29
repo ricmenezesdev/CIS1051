@@ -19,6 +19,7 @@ def generate_word():
     else:
         print("Failed to fetch the content. Status code:", response.status_code)
         return jsonify({'error': 'Failed to fetch the content'}), 500
+    
 @app.route('/')
 def home():
     word = generate_word()
