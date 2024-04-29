@@ -35,4 +35,4 @@ while attempts < max_attempts:
     attempts += 1
 
 if not solved:
-    print("Wordle not solved. Better luck next time!")
+    print("")

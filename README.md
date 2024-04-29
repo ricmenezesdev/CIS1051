@@ -11,7 +11,7 @@ by Ricardo Menezes
         Index layout: simple and fun user-friendly interface designed with HTML/CSS.
         Installing and machine setup: preparing my computer with Python installations, Environment variable path, pip install, Flask and CORS (for handling HTTP requests), Selenium   and Chrome webdriver (for browser interaction)
 
-        In scrap.py you will find an incomplete snip of code using Selenium to interact with NYT Wordle page. It's still unclear how to set up the function needed but the sends a request and opens the Wordle webpage. 
+        In scrap.py you will find an incomplete snip of code using Selenium to interact with NYT Wordle page. It's still unclear how to set up the function needed but the sends a request and opens the Wordle webpage. You will also find a first idea of what would be the logic to crack the game but that also still needs a lot of work done on it. Finally the scrap.py file will not exist and all the logic will be run on app.py.
 
         Although I am still processing the lessons from this project I have undoubtedly expanded my toolkit and knowledge. Each challenge encountered has provided valuable insights contributing to my growth as a developer. 
 
